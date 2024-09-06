@@ -1,5 +1,5 @@
 {
-    "name": "Donia/mysql-db",
+    "name": "MvcPackage/mysql-db",
     "description": "DB Library Day 6",
     "type": "library",
     "autoload": {
