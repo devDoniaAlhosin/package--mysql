@@ -7,7 +7,7 @@ dbwrapper is a small php wrapper for mysql databases.
 install once with composer:
 
 ```
-composer require donia/day6-db
+composer require mvc-package/mysql-db
 ```
 
 then add this to your project:
