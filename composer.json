@@ -1,5 +1,5 @@
 {
-    "name": "MvcPackage/mysql-db",
+    "name": "mvc-package/mysql-db",
     "description": "DB Library Day 6",
     "type": "library",
     "autoload": {
