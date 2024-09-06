@@ -1,0 +1,16 @@
+{
+    "name": "package/mysql-db",
+    "description": "DB Library Day 6",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Php\\Db\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Donia Alhosin"
+        }
+    ],
+    "require": {}
+}
